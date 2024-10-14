@@ -1,4 +1,4 @@
-# Archieve-good
+# Archive-good
 欢迎补充喵
 目前仅提供百度云和蓝奏云的下载方式
 >感谢大家的贡献
